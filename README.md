@@ -12,3 +12,9 @@ yarn -v
 
 # Install Hardhat
 sudo npm install -g hardhat
+"prettier.documentSelectors": [
+    "**/*.sol"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+}
